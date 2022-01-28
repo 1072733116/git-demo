@@ -1,0 +1,17 @@
+git config --global user.name name 
+git config --global user.email email 
+设置用户签署名字
+git init
+初始化本地仓库
+git status 
+查看git仓库状态
+git add fileName 
+添加文件到短暂存储区
+git commit -m "信息" fileName
+将文件提交到本地库
+git reflog 
+查看日志
+git log
+查看日志
+git reset --hard 版本号
+版本穿梭 切换当前项目版本
