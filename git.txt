@@ -26,3 +26,11 @@ git merge 分支名
 如果合并分支发生冲突，修改完冲突之后需要重新添加和提交
 提交不需要加文件名
 git commit -m ""
+
+git remote -v 
+查看当前所有远程地址别名
+git remote add 别名 远程地址
+给远程库添加别名
+git push 远程库 分支
+推送代码到远程库
+
