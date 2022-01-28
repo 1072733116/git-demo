@@ -15,3 +15,14 @@ git log
 查看日志
 git reset --hard 版本号
 版本穿梭 切换当前项目版本
+git checkout branchName
+切换分支
+git branch -v
+查看分支情况
+git branch 分支名
+创建分支
+git merge 分支名
+合并分支
+如果合并分支发生冲突，修改完冲突之后需要重新添加和提交
+提交不需要加文件名
+git commit -m ""
