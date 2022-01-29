@@ -33,4 +33,7 @@ git remote add 别名 远程地址
 给远程库添加别名
 git push 远程库 分支
 推送代码到远程库
-
+git pull 远程库 分支
+向远程库拉取代码
+git clone 远程库
+克隆远程库项目
