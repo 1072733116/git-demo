@@ -36,4 +36,6 @@ git push 远程库 分支
 git pull 远程库 分支
 向远程库拉取代码
 git clone 远程库
-克隆远程库项目
+克隆远程库项目 拉取代码 初始化本地库 创建别名
+ssh-keygen -t rsa -C 1072733116@qq.com
+创建ssh秘钥
